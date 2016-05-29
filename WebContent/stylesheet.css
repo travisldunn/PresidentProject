@@ -1,0 +1,61 @@
+body{
+	
+	background-image: url(http://www.tagshopstuff.com/sc_images/products/856_large_image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: fixed, top: 0px, left 0px; width: 100%; height: 100%;
+	background-color: #b3d9ff;
+	font-family: Arial;
+}
+form.text{
+	background-color: white;
+	font-color: black;
+	text-size: 1em;
+}
+h3{
+	text-align: center;
+}
+p{
+	font-color: #ff0000;
+	text-size: 1em;
+
+}
+
+p>img{
+	max-height: 150px;
+	border: grooved 2px black;
+}
+#frontSite{
+	font-size: 36px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+#frontSite p>a{
+	background-color: red;
+	color: white;
+	text-decoration: none;
+	padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+
+}
+#frontSite p>a:hover{
+	background-color: #080154;
+
+}
+#submit{
+	background-color: red;
+	font-size: 14px;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+	border: 0px ;
+	text-align: center;
+	width: 100px;
+    margin-left:auto;
+    margin-right:auto;
+	
+}
+#submit:hover{
+	background-color: #080154;
+}
